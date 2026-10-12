@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "jupyter-cache",
+  "versions": [
+    {
+      "commit": "9394eada9b8b16baf88451369b63ec09c70733c2",
+      "tag": "",
+      "parsed_at": "2026-10-12T20:05:28.163370+00:00"
+    }
+  ]
+}
