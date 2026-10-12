@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/jupyter-cache/commit/9394eada9b8b16baf88451369b63ec09c70733c2",
       "git:hexsha": "9394eada9b8b16baf88451369b63ec09c70733c2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T20:05:28.076741+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/jupyter-cache/commit/4558db8607c3d605902b94151292818f1f257011",
